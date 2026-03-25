@@ -1,8 +1,48 @@
-<<<<<<< HEAD
-asdnsadkhakfskj
-=======
-sfdfbrfaesghbraewgb
+Hajók:
+ -sloop
+ -brig
+ -galleon
 
+Fegyverek:
+ -cutlass
+ -blundrbuss
+ -pistol
+ -double barrel pistol
+ -throwing knife
+ -harpoon
+ -blowpipe
 
-admwkdmad
->>>>>>> e1ad9a9c86e03c2ddbcc6d7a53a471750e495647
+Questek:
+ -Voyages
+ -Tall Tales
+ -Hourglass
+
+Bossok:
+    Skeleton Fort:
+        -The Mutinous Helmsman
+        -The Two-Faced Scoundrel
+        -The Duchess
+    Ashen Winds:
+        -Captain Grimm
+        -Red Ruth
+        -Old Horatio
+        -Warden Chi
+    Sea Monsters:
+        -Kraken
+        -Megalodon
+            -The Hungering One
+            -The Crested Queen
+            -The Shadowmaw
+            -The Ancient Terror
+            -The Shrouded Ghost
+    Story & Tall Tale Bosses:
+        -Captain Briggsy
+        -The Gold Hoarder
+        -Davy Jones
+        -The Siren Queen
+        -The Herald of the Flame
+        -LeChuck
+    Special Event Bosses:
+        -The Burning Blade
+        -Raider of Secrets
+
