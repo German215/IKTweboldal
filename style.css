@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+    font-stretch: ultra-condensed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top:20px ;
+}
+
+.head{
+    background-color: black;
+    height: 100px;
+}
+
+nav{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
