@@ -1,0 +1,18 @@
+
+SECTION:
+
+    A section egy szerkezeti elem, ami egy oldalon belüli részletet jelöl.
+    Általában egy témakör, fejezet vagy csoport tartalmát foglalja össze.
+    Segít a tartalmat logikusan felosztani és a HTML dokumentumot olvashatóbbá tenni.
+    Mire jó?
+    csoportosításhoz
+    címekhez (<h1>…<h6>) kapcsolódó blokkokhoz
+    oldal felépítéséhez
+MAIN:
+    A <main> a HTML-ben az oldal fő tartalmát jelöli.
+    Csak egyszer lehet használni egy oldalon.
+    Az oldal olyan részét tartalmazza, ami közvetlenül kapcsolódik a dokumentum fő témájához.
+    Mire jó?
+    segít a böngészőknek és segítő technológiáknak (például képernyőolvasóknak)
+    elkülöníti a fő tartalmat az oldalsávoktól, lábléctől és fejléctől
+    javítja a HTML szemantikáját
